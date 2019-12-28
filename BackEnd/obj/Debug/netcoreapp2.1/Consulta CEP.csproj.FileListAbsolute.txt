@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\bin\Debug\netcoreapp2.1\Consulta CEP.deps.json
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\bin\Debug\netcoreapp2.1\Consulta CEP.runtimeconfig.json
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\bin\Debug\netcoreapp2.1\Consulta CEP.runtimeconfig.dev.json
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\bin\Debug\netcoreapp2.1\Consulta CEP.dll
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\bin\Debug\netcoreapp2.1\Consulta CEP.pdb
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.csprojAssemblyReference.cache
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.dll
+C:\Users\user\Documents\Programação\Projetos\Consulta CEP\obj\Debug\netcoreapp2.1\Consulta CEP.pdb
